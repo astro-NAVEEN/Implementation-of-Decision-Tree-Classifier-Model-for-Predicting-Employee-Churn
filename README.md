@@ -15,6 +15,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 
 ## Program:
 
+~~~py
+
 import numpy as np
 
 from sklearn.model_selection import train_test_split
@@ -83,9 +85,10 @@ else:
 
     print("\nPrediction: Employee is likely to Stay")
 
+~~~
+
 ## Output:
 <img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/ec0dc599-c33a-4b22-9b28-691775cf6b6c" />
-
 
 
 ## Result:
